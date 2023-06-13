@@ -1,4 +1,4 @@
-# Front-end Style Guide
+`# Front-end Style Guide
 
 ## Layout
 
@@ -31,3 +31,4 @@ The designs were created to the following widths:
 
 - Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
 - Weights: 400, 700
+`
