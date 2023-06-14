@@ -1,0 +1,34 @@
+.container {
+    margin-top: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-top: 2px solid var(--cream);
+}
+
+.left > span {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.left > h2 {
+    margin: 0px;
+    font-size: 32px;
+}
+
+.right {
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.right > h3 {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.right > span {
+    font-size: 12px;
+    font-weight: normal;
+}
+

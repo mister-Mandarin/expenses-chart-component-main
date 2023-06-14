@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 400px;
+    padding: 20px;
+
+    color: var(--white);
+
+    background-color: var(--soft-red);
+    border-radius: 20px;
+}
+
+.balance {
+
+}
+
+.balance > span {
+    font-size: 14px;
+
+}
+
+.balance > p {
+    margin: 0;
+    font-size: 24px;
+}
+
+.img {
+}
