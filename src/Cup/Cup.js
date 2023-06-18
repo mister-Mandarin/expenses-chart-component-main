@@ -13,7 +13,6 @@ const Cup = () => {
                     <circle cx="41" cy="21" r="20" fill="#382314"/>
                     <circle cx="21" cy="21" r="20" stroke="white" strokeWidth="2"/>
                 </svg>
-
             </div>
         </div>
     );

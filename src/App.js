@@ -1,8 +1,8 @@
 import './App.module.css';
 import Cup from "./Cup/Cup";
 import styles from './App.module.css'
-import Graf from "./Graf/Graf";
 import {ContextDataProvider} from "./Context/Data.context";
+import Graf from "./Graf/Graf";
 
 export default function App() {
     return (
